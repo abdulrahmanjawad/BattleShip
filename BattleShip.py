@@ -44,7 +44,6 @@ def playerShots():
             if aiboard[key].collidepoint(event.pos):
                 pshots.append(key)
                 return True
-            
 
 #   AI Ships on Computer Board, HOWEVER NOT WORKING LIKE IT SHOULD
 def computerShips():
