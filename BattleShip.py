@@ -46,7 +46,7 @@ def playerShots():
                 return True
             
 
-#   AI Ships on Computer Board
+#   AI Ships on Computer Board, HOWEVER NOT WORKING LIKE IT SHOULD
 def computerShips():
     shipbox = random.choice(list(aiboard))
     while shipbox in aiships:
