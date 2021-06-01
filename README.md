@@ -1,3 +1,5 @@
 # BattleShip
 
-Battleship game in Python 3 pygame.
+Battleship game in Python pygame.
+
+Computer vs Player
